@@ -1,0 +1,25 @@
+{
+  "name": "CJZVIPE",
+  "logoURI": "https://www.cjz.vip/bdueimg/php/upload/image/20221108/1667898179419925.png",
+  "keywords": [
+      "CZ",
+      "cz",
+      "CJZVIPE"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xe9e2fb149f23d7563d09eb58932052552b4889ea",
+      "name": "CJZVIPE",
+      "symbol": "CZ",
+      "decimals": 18,
+      "logoURI": "https://www.cjz.vip/bdueimg/php/upload/image/20221108/1667898179419925.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
